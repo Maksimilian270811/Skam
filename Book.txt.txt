@@ -1,4 +1,10 @@
 The old book lay on the table.
+<<<<<<< HEAD
 Its pages were used and torn.
 A map fell out as it was opened.
 Where could it guide to?  
+=======
+Its pages were old and torn.
+A map fell out as it was opened.
+Where could it point to?  
+>>>>>>> 172c75da876ee7af3aafb582b186dc50615e2b8c
